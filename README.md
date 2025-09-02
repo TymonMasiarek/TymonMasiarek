@@ -14,10 +14,10 @@ Nice to meet you!
 
 ## 📂 Resume Projects  
 
-- 🛡️ **[Security Operations AI Assistant](#)** – RAG + Whisper + fine-tuned LLaMA 4  
+- 🛡️ **[Security Operations AI Assistant]()** – RAG + Whisper + fine-tuned LLaMA 4  
 - 📈 **[Linear Regression from Scratch](#)** – NumPy + PyTorch implementation  
-- ✍️ **[Handwritten Digit Recognition](#)** – NumPy backprop + interactive demo  
+- ✍️ **[Handwritten Digit Recognition]([#](https://github.com/TymonMasiarek/MNIST))** – NumPy backprop + interactive demo  
 - 📊 **[Customer Churn Prediction](#)** – Business ML, XGBoost, feature importance  
-- 📑 **[Attention Is All You Need (Reimplementation)](#)** – Transformer in PyTorch  
+- 📑 **[Attention Is All You Need (Reimplementation)]([#](https://github.com/TymonMasiarek/attentionisallyouneed))** – Transformer in PyTorch  
 
 ---
