@@ -1,7 +1,7 @@
 ## 👋 Hello there, I’m Tymon
 
 Nice to meet you!  
-- 🔭 I’m currently working on: **Security Operations AI Assistant (RAG + Whisper + fine-tuned LLaMA 4 + LangChain)**  
+- 🔭 I’m currently working on my side project: **Security Operations AI Assistant (RAG + Whisper + fine-tuned LLaMA 4 + LangChain)**  
 - 🌱 I’m currently learning: **LLM fine-tuning, RAG architectures, and deep learning fundamentals**  
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/TymonMasiarek) | [Website](https://tymonmasiarek.dev)  
 
